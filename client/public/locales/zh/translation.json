@@ -54,7 +54,7 @@
     "updated$time": "{{time}} 更新"
   },
   "footer": {
-    "rss": "RSS 订阅链接"
+    "rss": "RSS 订阅"
   },
   "friends": {
     "apply": "申请友链",
@@ -66,7 +66,7 @@
       "rejected": "拒绝",
       "waiting": "待审核"
     },
-    "title": "朋友们"
+    "title": "圈子"
   },
   "github_login": "Github 登录",
   "home": "首页",
@@ -125,7 +125,7 @@
     "import_success$success$skipped": "导入成功，{{success}} 篇文章导入成功，{{skipped}} 篇文章跳过",
     "rss": {
       "desc": "启用站点底部 RSS 订阅链接",
-      "title": "RSS 订阅链接"
+      "title": "RSS 订阅"
     },
     "title": "设置",
     "update_failed$message": "更新失败: {{message}}",
@@ -138,7 +138,7 @@
   "status": "状态",
   "summary": "简介",
   "tags": "标签",
-  "timeline": "时间轴",
+  "timeline": "归档",
   "title": "标题",
   "title_empty": "标题不能为空",
   "unlisted": "未列出",
